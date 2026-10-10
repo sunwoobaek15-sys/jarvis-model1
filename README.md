@@ -1,5 +1,13 @@
 # J.A.R.V.I.S. — 웹 버전
 
+## 🎤 API 키 없이 마이크로 쓰기 (VOICE LINK)
+**▶ https://raw.githack.com/sunwoobaek15-sys/jarvis-model1/main/voice.html**
+
+크롬에서 열고 코어를 탭해 말하면, 받아 적은 말을 들고 claude.ai 자비스로 넘어가 대답합니다
+(claude.ai 에 로그인한 계정 필요, Claude 구독 사용량 사용). 대답을 들은 뒤 **뒤로가기** → 다시 탭.
+
+---
+
 홀로그램 HUD 개인 AI 비서. 폰 크롬에서 바로 열립니다.
 
 **▶ 열기:** https://raw.githack.com/sunwoobaek15-sys/jarvis-model1/main/index.html
